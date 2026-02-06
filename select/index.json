@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GIRL",
+  "base_artist": "Suchmos",
+  "createdAt": "2026-02-06T10:18:35.106552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Have Mine (Find You a Girl)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/01_Can't_Have_Mine_(Find_You_a_Girl)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/02_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Next Girl",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/03_Next_Girl_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Next Girl",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/04_Next_Girl_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Super Freaky Girl",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/05_Super_Freaky_Girl_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Final Girl",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/06_Final_Girl_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Girl Like You",
+      "artist": "Easton Corbin",
+      "has_synced": true,
+      "path": "select/07_A_Girl_Like_You_Easton_Corbin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Guy with a Girl",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/08_A_Guy_with_a_Girl_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All-American Girl",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/09_All-American_Girl_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "American Girl",
+      "artist": "Laura Bell Bundy feat. Shea Carter",
+      "has_synced": false,
+      "path": "select/10_American_Girl_Laura_Bell_Bundy_feat._Shea_Carter.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "American Girl",
+      "artist": "Laura Bell Bundy",
+      "has_synced": false,
+      "path": "select/11_American_Girl_Laura_Bell_Bundy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "American Girl",
+      "artist": "Tom Petty and the Heartbreakers",
+      "has_synced": true,
+      "path": "select/12_American_Girl_Tom_Petty_and_the_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "American Girl (Album Version)",
+      "artist": "Tom Petty And The Heartbreakers",
+      "has_synced": true,
+      "path": "select/13_American_Girl_(Album_Version)_Tom_Petty_And_The_Heartbreakers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby Girl - 2nd Version/Remix/Album Version",
+      "artist": "Sugarland",
+      "has_synced": true,
+      "path": "select/14_Baby_Girl_-_2nd_Version_Remix_Album_Version_Sugarland.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Blue Kentucky Girl",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/15_Blue_Kentucky_Girl_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Blue Kentucky Girl (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/16_Blue_Kentucky_Girl_(Remastered_LP_Version)_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Brave Girl",
+      "artist": "Callista Clark",
+      "has_synced": true,
+      "path": "select/17_Brave_Girl_Callista_Clark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIRL feat.呂布",
+      "artist": "Suchmos",
+      "has_synced": false,
+      "path": "select/pl_01_GIRL_feat.呂布_Suchmos.txt"
+    }
+  ]
+}
